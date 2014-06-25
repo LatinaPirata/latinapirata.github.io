@@ -1,4 +1,4 @@
-latinapirata.github.io
+piratilatina.github.io
 ======================
 
-#LatinaPirata
+#PiratiLatina
